@@ -1,10 +1,10 @@
 # REACT: CLIENT
-<h1>Hello</h1> -> Babel
-React.createElement("h1", "Hello") -> React Library
-document.createElemenent("h1", "Hello"); -> Vanilla JS
+`<h1>Hello</h1>` -> Babel
+`React.createElement("h1", "Hello")` -> React Library
+`document.createElemenent("h1", "Hello");` -> Vanilla JS
 
 # RSC: SERVER - NEXTJS
-<h1>Hello</h1> -> React.createElement("h1", "Hello") -> document.createElemenent("h1", "Hello");
+`<h1>Hello</h1>` -> `React.createElement("h1", "Hello")` -> `document.createElemenent("h1", "Hello");`
 Next.js in the **server**
 
 ---
